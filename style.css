@@ -1,0 +1,38 @@
+body{
+  padding-top: 3.5em;
+}
+
+.pycustom-0 {
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+.bgcolorcustom{
+  background-color: #22262b;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(255, 255, 255, 1);
+}
+
+.cardmargin{
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em
+}
+
+.carousel-inner{
+  max-height: 36em;
+}
+
+.navbar:hover > .navbar-brand{
+  color: #ffffff;
+}
+
+.navbar:active > .navbar-brand{
+  color: #ffffff;
+}
+
+.navbar-light .navbar-brand:focus {
+    color: rgba(255, 255, 255, 1);
+}
